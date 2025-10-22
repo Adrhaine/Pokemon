@@ -1,0 +1,36 @@
+# Fichiers Java compilés
+*.class
+
+# Fichiers JAR
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Fichiers de logs
+*.log
+
+# Dossiers de build (Maven, Gradle)
+target/
+build/
+out/
+
+# Fichiers IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Fichiers Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Fichiers Visual Studio Code
+.vscode/
+
+# Fichiers OS (macOS, Windows)
+.DS_Store
+Thumbs.db
