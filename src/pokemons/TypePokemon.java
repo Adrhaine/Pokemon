@@ -1,9 +1,9 @@
 package pokemons;
 
 public enum TypePokemon {
-	FEU("Type Feu"),
-	PLANTE("Type Plante"),
-	EAU("Type Eau");
+	FEU("Feu"),
+	PLANTE("Plante"),
+	EAU("Eau");
 		
 	private String type;
 		
